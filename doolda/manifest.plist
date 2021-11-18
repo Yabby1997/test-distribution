@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://github.com/Yabby1997/test-distribution/blob/master/doolda/52.png?raw=true</string>
+					<string>https://raw.githubusercontent.com/Yabby1997/test-distribution/master/doolda/57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://github.com/Yabby1997/test-distribution/blob/master/doolda/512.png?raw=true</string>
+					<string>https://raw.githubusercontent.com/Yabby1997/test-distribution/master/doolda/512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
